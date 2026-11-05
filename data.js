@@ -16,7 +16,7 @@ const CONFIG = {
 //  - photo  : optionnel. Mets une photo dans le dépôt (ex: "photos/amine.jpg")
 //             et écris son chemin ici. Laisse "" pour afficher un maillot.
 const MEILLEUR_JOUEUR = {
-  nom: "oussema",
+  nom: "Houssem",
   numero: 10,
   poste: "Attaquant",
   equipe: "Gagnante",
@@ -24,7 +24,7 @@ const MEILLEUR_JOUEUR = {
   passes: 4,
   note: 9.2,
   phrase: "Quatre passes décisives et 5 buts : il a porté l'équipe toute la semaine.",
-  photo: "oussema.jpg"
+  photo: "houssem.jpg"
 };
 
 // 📅 Le prochain match (format date : AAAA-MM-JJTHH:MM)
