@@ -24,7 +24,7 @@ const MEILLEUR_JOUEUR = {
   passes: 4,
   note: 9.2,
   phrase: "Quatre passes décisives et 5 buts : il a porté l'équipe toute la semaine.",
-  photo: "houssem.jpg"
+  photo: "oussema.jpg"
 };
 
 // 📅 Le prochain match (format date : AAAA-MM-JJTHH:MM)
