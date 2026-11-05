@@ -38,8 +38,8 @@ const MATCH = {
 
 // ✅ Joueurs convoqués (numero = numéro de maillot, facultatif)
 const CONVOQUES = [
-  { nom: "Mourad",   numero: 1,  poste: "Gardien",   equipe: "5.5" },
-    { nom: "Walid",   numero: 12,  poste: "Gardien",   equipe: "6.5" },
+  { nom: "Mourad",   numero: 1,  poste: "Gardien",   equipe: "6.5" },
+    { nom: "Walid",   numero: 12,  poste: "Gardien",   equipe: "6" },
   { nom: "Michliya",   poste: "Défenseur", equipe: "5.5" },
     { nom: "Bilel",  poste: "Défenseur", equipe: "6.5" },
   { nom: "Atef",   poste: "Défenseur",    equipe: "6.5" },
