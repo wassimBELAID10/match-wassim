@@ -16,7 +16,7 @@ const CONFIG = {
 //  - photo  : optionnel. Mets une photo dans le dépôt (ex: "photos/amine.jpg")
 //             et écris son chemin ici. Laisse "" pour afficher un maillot.
 const MEILLEUR_JOUEUR = {
-  nom: "Houssem",
+  nom: "oussema",
   numero: 10,
   poste: "Attaquant",
   equipe: "Gagnante",
