@@ -22,7 +22,7 @@ const MEILLEUR_JOUEUR = {
   equipe: "Gagnante",
   buts: 5,
   passes: 4,
-  note: 9.2,
+  note: 8,
   phrase: "Quatre passes décisives et 5 buts : il a porté l'équipe toute la semaine.",
   photo: "houssem.jpg"
 };
