@@ -54,7 +54,7 @@ const CONVOQUES = [
   { nom: "Dhiya",    poste: "Milieu", equipe: "6.5" },
   { nom: "Sedki",    poste: "Milieu",    equipe: "6.5" },
    { nom: "Hazem",    poste: "Attaquant",    equipe: "6.5" },
-    { nom: "Houssem",    poste: "Attaquant",    equipe: "8" },
+    { nom: "Houssem",    poste: "Attaquant",    equipe: "8.2" },
      { nom: "Derdouri",    poste: "Attaquant",    equipe: "6" },
   { nom: "Oussama",  poste: "Attaquant", equipe: "6.5" }
 ];
