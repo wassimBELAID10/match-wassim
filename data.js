@@ -17,7 +17,7 @@ const CONFIG = {
 //             et écris son chemin ici. Laisse "" pour afficher un maillot.
 const MEILLEUR_JOUEUR = {
   nom: "Houssem",
-  numero: 10,
+  numero: 9,
   poste: "Attaquant",
   equipe: "Gagnante",
   buts: 5,
@@ -43,19 +43,20 @@ const CONVOQUES = [
   { nom: "Michliya",   poste: "Défenseur", equipe: "5.5" },
     { nom: "Bilel",  poste: "Défenseur", equipe: "6.5" },
   { nom: "Atef",   poste: "Défenseur",    equipe: "6.5" },
-  { nom: "Majdi",     poste: "Défenseur", equipe: "6.5" },
+  { nom: "Majdi",     poste: "Défenseur", equipe: "6" },
+   { nom: "Wajdi",     poste: "Défenseur", equipe: "6" },
   { nom: "Ali",  poste: "Défenseur",   equipe: "6" },
-  { nom: "Asfour",     poste: "Défenseur", equipe: "5" },
-  { nom: "Rami",    poste: "Milieu",    equipe: "5" },
+  { nom: "Asfour",     poste: "Défenseur", equipe: "6" },
+  { nom: "Rami",    poste: "Milieu",    equipe: "4" },
   { nom: "Wassim",    poste: "Milieu",    equipe: "6.5" },
   { nom: "Safwen",    poste: "Milieu", equipe: "7" },
    { nom: "Ghzaiel",    poste: "Milieu", equipe: "6.5" },
   { nom: "Badis", poste: "Milieu",   equipe: "7" },
   { nom: "Dhiya",    poste: "Milieu", equipe: "6.5" },
   { nom: "Sedki",    poste: "Milieu",    equipe: "6.5" },
-   { nom: "Hazem",    poste: "Attaquant",    equipe: "6.5" },
+   { nom: "Hazem",    poste: "Attaquant",    equipe: "6" },
     { nom: "Houssem",    poste: "Attaquant",    equipe: "8" },
-     { nom: "Derdouri",    poste: "Attaquant",    equipe: "6" },
+     { nom: "Derdouri",    poste: "Attaquant",    equipe: "5.5" },
   { nom: "Oussama",  poste: "Attaquant", equipe: "6.5" }
 ];
 
