@@ -18,12 +18,12 @@ const CONFIG = {
 const MEILLEUR_JOUEUR = {
   nom: "Mourad",
   numero: 1,
-  poste: "Attaquant",
+  poste: "Gardien",
   equipe: "Gagnante",
-  buts: 5,
-  passes: 4,
-  note: 8,
-  phrase: "Quatre passes décisives et 5 buts : il a porté l'équipe toute la semaine.",
+  arrêt: 15,
+//  passes: 4,
+  note: 9.5,
+ // phrase: "Quatre passes décisives et 5 buts : il a porté l'équipe toute la semaine.",
   photo: "mourad.jpg"
 };
 
