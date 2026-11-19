@@ -17,7 +17,7 @@ const CONFIG = {
 //             et écris son chemin ici. Laisse "" pour afficher un maillot.
 const MEILLEUR_JOUEUR = {
   nom: "Oussema",
-  numero: 1,
+  numero: 10,
   poste: "Attaquant",
   equipe: "Gagnante",
  // arrêt: 15,
