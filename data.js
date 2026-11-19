@@ -16,20 +16,20 @@ const CONFIG = {
 //  - photo  : optionnel. Mets une photo dans le dépôt (ex: "photos/amine.jpg")
 //             et écris son chemin ici. Laisse "" pour afficher un maillot.
 const MEILLEUR_JOUEUR = {
-  nom: "Mourad",
-  numero: 1,
-  poste: "Gardien",
+  nom: "oussema",
+  numero: 10,
+  poste: "Attaquant",
   equipe: "Gagnante",
-  arrêt: 15,
+//  arrêt: 15,
 //  passes: 4,
-  note: 9.5,
+  note: 8,
  // phrase: "Quatre passes décisives et 5 buts : il a porté l'équipe toute la semaine.",
-  photo: "mourad.jpg"
+  photo: "oussema.jpg"
 };
 
 // 📅 Le prochain match (format date : AAAA-MM-JJTHH:MM)
 const MATCH = {
-  date: "2026-11-18T20:30",
+  date: "2026-11-25T20:30",
   lieu: "Terrain du Chatt mariem",
   adresse: "À côté de la mosquée / terrain en gazon artificiel ",
   adversaire: "Équipe A vs Équipe B",
@@ -38,27 +38,27 @@ const MATCH = {
 
 // ✅ Joueurs convoqués (numero = numéro de maillot, facultatif)
 const CONVOQUES = [
-  { nom: "Mourad",   numero: 1,  poste: "Gardien",   equipe: "9.5" },
-    { nom: "Walid",   numero: 12,  poste: "Gardien",   equipe: "6" },
-  { nom: "Michliya",   poste: "Défenseur", equipe: "5.5" },
+  { nom: "Mourad",   numero: 1,  poste: "Gardien",   equipe: "7" },
+    { nom: "Ben Mostfa",   numero: 12,  poste: "Gardien",   equipe: "7.5" },
+  { nom: "Michliya",   poste: "Défenseur", equipe: "4.5" },
     { nom: "Bilel",  poste: "Défenseur", equipe: "6.5" },
   { nom: "Atef",   poste: "Défenseur",    equipe: "6.5" },
   { nom: "Majdi",     poste: "Défenseur", equipe: "6" },
-   { nom: "Amine",     poste: "Défenseur", equipe: "6" },
+   { nom: "Jawher",     poste: "Défenseur", equipe: "6" },
   { nom: "Ali",  poste: "Défenseur",   equipe: "6" },
  // { nom: "Asfour",     poste: "Défenseur", equipe: "6" },
-  { nom: "Rami",    poste: "Milieu",    equipe: "6" },
-  { nom: "Wassim",    poste: "Milieu",    equipe: "7" },
-  { nom: "Safwen",    poste: "Milieu", equipe: "6.5" },
-   { nom: "Ghzaiel",    poste: "Milieu", equipe: "6.5" },
-   { nom: "Sofien",    poste: "Milieu",    equipe: "7" },
+  { nom: "Rami",    poste: "Milieu",    equipe: "6.5" },
+  { nom: "Wassim",    poste: "Milieu",    equipe: "6.5" },
+  { nom: "Safwen",    poste: "Milieu", equipe: "6" },
+   { nom: "Haroun",    poste: "Milieu", equipe: "6.5" },
+   { nom: "Sofien",    poste: "Milieu",    equipe: "6.5" },
   { nom: "Badis", poste: "Milieu",   equipe: "7" },
-  { nom: "Dhiya",    poste: "Milieu", equipe: "6.5" },
+ // { nom: "Oussema",    poste: "Milieu", equipe: "8" },
   { nom: "Sedki",    poste: "Milieu",    equipe: "7" },
-   { nom: "Hazem",    poste: "Attaquant",    equipe: "8" },
+   { nom: "Hazem",    poste: "Attaquant",    equipe: "6.5" },
    
      { nom: "Derdouri",    poste: "Attaquant",    equipe: "6.5" },
-//  { nom: "Oussama",  poste: "Attaquant", equipe: "6.5" }
+ { nom: "Oussama",  poste: "Attaquant", equipe: "8" }
 ];
 
 // ❌ Joueurs absents
