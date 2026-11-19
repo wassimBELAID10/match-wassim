@@ -29,7 +29,7 @@ const MEILLEUR_JOUEUR = {
 
 // ?? Le prochain match (format date : AAAA-MM-JJTHH:MM)
 const MATCH = {
-  date: "2026-11-18T20:30",
+  date: "2026-11-25T20:30",
   lieu: "Terrain du Chatt mariem",
   adresse: "À côté de la mosquée / terrain en gazon artificiel ",
   adversaire: "Équipe A vs Équipe B",
